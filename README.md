@@ -15,3 +15,6 @@ Create an application that an employee can use to generate a random password bas
       * Special characters ($@%&*, etc)
   * Code should validate for each input and at least one character type should be selected
   * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+ 
+  ## Credit
+  Referenced this youtube video:https://www.youtube.com/watch?v=iKo9pDKKHnc&t=1171s
